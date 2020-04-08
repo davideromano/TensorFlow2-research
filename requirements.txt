@@ -1,0 +1,12 @@
+pandas==0.25.3
+matplotlib==3.1.2
+scikit-learn==0.21.3
+scikit-image==0.16.2
+numpy==1.18.1
+nltk==3.4.5
+spacy==2.2.4
+gensim==3.8.1
+seaborn==0.10.0
+wordcloud==1.6.0
+tensorflow_hub
+tensorflow-datasets==2.1.0
